@@ -5,6 +5,16 @@
 This project analyzes the relationship between Bitcoin market sentiment (Fear & Greed Index) and trader performance using historical trade data from Hyperliquid.
 The goal is to understand how market mood impacts trading profitability and identify patterns that can be used to build better trading strategies.
 
+Link to dataset
+Historical Data 
+
+https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing
+
+Fear Greed Index link:
+
+https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing
+
+
 📁 Files Included
 1. bitcoin_sentiment_trader_performance_analysis.ipynb
 
